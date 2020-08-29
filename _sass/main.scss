@@ -4,6 +4,9 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+
+@import "variables";
+
 body {
     overflow-x: hidden;
 }
@@ -22,7 +25,7 @@ a:focus,
 a:active,
 a.active {
     outline: 0;
-    color: #{{ site.color.primary }};
+    color: $primary;
 }
 
 h1,
@@ -64,15 +67,15 @@ hr.star-light {
 
 hr.star-light:after {
     color: #fff;
-    background-color: #{{ site.color.primary }};
+    background-color: $primary;
 }
 
 hr.star-primary {
-    border-color: #{{ site.color.secondary }};
+    border-color: $secondary;
 }
 
 hr.star-primary:after {
-    color: #{{ site.color.secondary }};
+    color: $secondary;
     background-color: #fff;
 }
 
@@ -83,7 +86,7 @@ hr.star-primary:after {
 header {
     text-align: center;
     color: #fff;
-    background: #{{ site.color.primary }};
+    background: $primary;
 }
 
 header .container {
@@ -182,7 +185,7 @@ section h2 {
 
 section.success {
     color: #fff;
-    background: #{{ site.color.primary }};
+    background: $primary;
 }
 
 @media(max-width:767px) {
@@ -212,7 +215,7 @@ section.success {
     width: 100%;
     height: 100%;
     opacity: 0;
-    background: rgba({{ site.color.primary-rgb }},.9);
+    background: rgba(234, 154, 178,.9);
     -webkit-transition: all ease .5s;
     -moz-transition: all ease .5s;
     transition: all ease .5s;
@@ -293,7 +296,7 @@ section.success {
 .btn-outline:active,
 .btn-outline.active {
     border: solid 2px #fff;
-    color: #{{ site.color.primary }};
+    color: $primary;
     background: #fff;
 }
 
@@ -346,7 +349,7 @@ section.success {
 }
 
 .floating-label-form-group-with-focus label {
-    color: #{{ site.color.primary }};
+    color: $primary;
 }
 
 form .row:first-child .floating-label-form-group {
@@ -363,7 +366,7 @@ footer h3 {
 
 footer .footer-above {
     padding-top: 50px;
-    background-color: #{{ site.color.secondary }};
+    background-color: $secondary;
 }
 
 footer .footer-col {
@@ -372,7 +375,7 @@ footer .footer-col {
 
 footer .footer-below {
     padding: 25px 0;
-    background-color: #{{ site.color.secondary-dark }};
+    background-color: $secondary-dark;
 }
 
 .btn-social {
@@ -462,7 +465,7 @@ footer .footer-below {
     width: 1px;
     height: 75px;
     margin-left: 35px;
-    background-color: #{{ site.color.secondary }};
+    background-color: $secondary;
     -webkit-transform: rotate(45deg);
     -ms-transform: rotate(45deg);
     transform: rotate(45deg);
@@ -472,14 +475,14 @@ footer .footer-below {
     z-index: 1052;
     width: 1px;
     height: 75px;
-    background-color: #{{ site.color.secondary }};
+    background-color: $secondary;
     -webkit-transform: rotate(90deg);
     -ms-transform: rotate(90deg);
     transform: rotate(90deg);
 }
 
 .navbar-nav>.active>a {
-    background-color: #{{ site.color.secondary-dark }} !important;
+    background-color: $secondary-dark !important;
 }
 
 /* Fix modal mouse wheel issues */

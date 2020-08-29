@@ -16,11 +16,11 @@
                             <hr class="star-primary">
                             {% if post.head-img %}
                                 <a href="#{{ post.head-img }}">
-                                    <img src="img/portfolio/{{ post.head-img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                                    <img src="{{ site.baseurl }}/assets/img/portfolio/{{ post.head-img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                                 </a>
                                 <!-- lightbox container hidden with CSS -->
                                 <a href="#_" class="lightbox" id="{{ post.head-img }}">
-                                    <img src="img/portfolio/{{ post.head-img }}"">
+                                    <img src="{{ site.baseurl }}/assets/img/portfolio/{{ post.head-img }}"">
                                 </a>
                             {% endif %}
 
