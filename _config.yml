@@ -1,7 +1,7 @@
 # Site settings
 title: Victoria Cao
-email: your-email@domain.com
-url: https://github.com/jeromelachaud/freelancer-theme
+email: caovicto@msu.edu
+url: https://caovicto.github.io
 base: /Portfolio
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 keywords: "your keywords, separated by commas"
@@ -29,18 +29,18 @@ color:
   primary: EA9AB2 #80B3FF
   primary-rgb: "67,87,173" #"128,179,255"
   secondary: 388C94 #FD6E8A
-  secondary-dark: E27396 #A2122F
+  secondary-dark: 1C464A #A2122F
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Victoria Cao
   location: Location
   social: Around the Web
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: linkedIn
+  - title: linkedin
     url: http://twitter.com/jekyllrb
   - title: github
     url: http://github.com/jekyll

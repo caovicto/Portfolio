@@ -3,8 +3,8 @@ layout: default
 modal-id: 1
 date: 2020-08-28
 img: planner.png
-head-img: planner.png
+head-img: demo.gif
 project-date: August 2020
 title: Undergraduate Research Assistant
-description: <a href="https://caovicto.github.io/CoursePlanner/">Try the Application</a> <br> I created a web application to plan future semesters for Michigan State University students based on major, minor, and previously accredited courses. The data was scraped from Michigan State University's website through selenium, and offers side by side easy look up of the course information while choosing requirements and within the drag and drop scheduling step. Students are given suggestions on recommended courses to take and assistance in placing courses in their designated running semesters.
+description: <a href="https://caovicto.github.io/CoursePlanner/"><h3>Try the Application</h3></a><br><p>Course Planner is a web application to plan future semesters for Michigan State University students based on major, minor, and previously accredited courses. <br><br> The data was scraped from Michigan State University's website through selenium, and offers side by side easy look up of the course information while choosing requirements and within the drag and drop scheduling step. Students are given suggestions on recommended courses to take and assistance in placing courses in their designated running semesters.</p>
 ---
