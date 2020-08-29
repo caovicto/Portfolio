@@ -2411,3 +2411,5 @@ footer .footer-below { padding: 25px 0; background-color: #388C94; }
 .lightbox img, .lightbox source { /** Pad the lightbox image */ width: 70%; height: auto; margin-top: 5%; }
 
 .lightbox:target { /** Remove default browser outline */ outline: none; /** Unhide lightbox **/ display: block; }
+
+/*# sourceMappingURL=style.css.map */
