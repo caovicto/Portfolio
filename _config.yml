@@ -47,11 +47,10 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 6548 Chatham Cir
-  - line: Rochester Hills, MI 48306
+  - line: Rochester Hills, MI
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'This is a modified version of Freelancer, which is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
 
 # Build settings
 markdown: kramdown
