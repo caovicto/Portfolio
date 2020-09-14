@@ -4,7 +4,7 @@
   <generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator>
   <link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" />
   <link href="http://localhost:4000/" rel="alternate" type="text/html" />
-  <updated>2020-09-10T15:52:00-04:00</updated>
+  <updated>2020-09-14T14:14:36-04:00</updated>
   <id>http://localhost:4000/</id>
 
   
@@ -20,8 +20,40 @@
   
   
     <entry>
-      <title type="html">Undergraduate Research Assistant</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Undergraduate Research Assistant" />
+      <title type="html">Calia Nova Website</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Calia Nova Website" />
+      <published>2020-09-01T00:00:00-04:00</published>
+      <updated>2020-09-01T00:00:00-04:00</updated>
+      <id>http://localhost:4000/CN</id>
+      <content type="html" xml:base="http://localhost:4000/"></content>
+
+      
+      
+      
+      
+      
+
+      <author>
+          <name></name>
+        
+        
+      </author>
+
+      
+
+      
+
+      
+        <summary type="html"></summary>
+      
+
+      
+      
+    </entry>
+  
+    <entry>
+      <title type="html">Course Planner Web Application</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Course Planner Web Application" />
       <published>2020-08-28T00:00:00-04:00</published>
       <updated>2020-08-28T00:00:00-04:00</updated>
       <id>http://localhost:4000/CP</id>
@@ -52,8 +84,8 @@
     </entry>
   
     <entry>
-      <title type="html">Devo</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Devo" />
+      <title type="html">DevoLab Research</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="DevoLab Research" />
       <published>2020-05-01T00:00:00-04:00</published>
       <updated>2020-05-01T00:00:00-04:00</updated>
       <id>http://localhost:4000/DEVO</id>
@@ -84,8 +116,8 @@
     </entry>
   
     <entry>
-      <title type="html">Undergraduate Research Assistant</title>
-      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="Undergraduate Research Assistant" />
+      <title type="html">ACRES Research</title>
+      <link href="http://localhost:4000/" rel="alternate" type="text/html" title="ACRES Research" />
       <published>2019-08-01T00:00:00-04:00</published>
       <updated>2019-08-01T00:00:00-04:00</updated>
       <id>http://localhost:4000/ACRES</id>
